@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisOliverez
 - 👀 I’m interested in the life-long journey of learning to code!!!
 - 🌱 I’m currently learning how to build intuitive, enguaging, and responsive websites. 
-- 💞️ I’m looking to collaborate on making the world a better place by helping those most in need.
+- I’m looking to collaborate on making the world a better place by helping those most in need.
 - 📫 How to reach me https://www.linkedin.com/in/jose-oliverez/
