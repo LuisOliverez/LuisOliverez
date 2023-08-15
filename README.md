@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my portfolio if you want to follow along [My Portfolio](https://luis-oliverez.netlify.app/)
 
-- 🌱 I’m currently learning React, Swift, **React.js, and React Native**
+- 🌱 I’m currently learning React Swift, **React.js and React Native**
 
 - 📫 How to reach me **louoliverez901@gmail.com**
 
