@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate Web Dev who wants to learn more</h3>
+<h3 align="center">Hi, I'm Luis!! I grew up in a small town and always had an interest and a knack for technology. Life took me in another direction for a while. During that time I acquired a set of skill I wouldn't trade for anything. Among those are the skill of learning, leadership, and discipline. Now I'm bringing these skills, and more, to the tech industry. I'm truly excited to make positive impact as globally as possible with an amazing company. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisoliverez&label=Profile%20views&color=0e75b6&style=flat" alt="luisoliverez" /> </p>
 
